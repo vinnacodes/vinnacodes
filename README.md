@@ -1,5 +1,5 @@
 <div align="center">
-   <h1>Hi there, I'm <a href="https://vinnarasu.github.io">Vinnarasu<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/People/Waving%20Hand.webp" alt="Waving Hand" width="45" height="55" /> </a> 
+   <h1>Hi there, I'm <a href="https://vinnarasu.github.io">Vinnarasu<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/People/Waving%20Hand.webp" alt="Waving Hand" width="45" height="45" /> </a> 
    
 
 
