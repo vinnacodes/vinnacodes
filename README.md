@@ -86,7 +86,8 @@
    <img src="https://user-images.githubusercontent.com/74038190/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif" />
 </p>
 <p align="center">
-   <img src="https://lottie.host/0370cf16-fc4a-4536-a64f-aca07e892884/7Q9p2YBEAq.lottie(https://lottie.host/embed/174a54f5-73c7-468f-92c0-496266996ced/n26q1C1wXx.lottie)" />
+   <img src="![Animation - 1740741873214](https://github.com/user-attachments/assets/0585a2b3-7df6-430c-9dce-b269b47ec156)
+)" />
 </p>
 
 <br />
@@ -103,5 +104,4 @@
    <img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" alt="Github Stats" />
 </p>
 
-<script src="https://unpkg.com/@dotlottie/player-component@2.7.12/dist/dotlottie-player.mjs" type="module"></script>
-<dotlottie-player src="https://lottie.host/174a54f5-73c7-468f-92c0-496266996ced/n26q1C1wXx.lottie" background="transparent" speed="1" style="width: 300px; height: 300px" loop autoplay></dotlottie-player>
+
