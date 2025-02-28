@@ -4,12 +4,11 @@
    <img src="https://pronoun.cyou/x/y?subject=He&object=Him&height=20"> 
 </div>
 
-<p align='center'>
+<p align="center">
    <a href="https://www.linkedin.com/in/vinnarasu-p-85518a195/"><img height="30" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/linkedin.png?raw=true"></a>  
    <a href="https://twitter.com/vinnarasu_p"><img height="30" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/twitter.png?raw=true"></a>  
    <a href="https://github.com/vinnarasu"><img height="30" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/github.png?raw=true"></a>  
 </p>
-
 <div align="center">
    <h3><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 🙎 Vinnarasu  | 💻 Full Stack Developer | 🛸 India <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></h3>
 </div>
@@ -55,16 +54,16 @@
 ### - Languages and Tools...
 
 <p align="center">
-   <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/languages/java.svg" alt="java" style="vertical-align:top; margin:4px">
-   <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/languages/springboot.svg" alt="springboot" style="vertical-align:top; margin:4px">
-   <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/languages/mysql.svg" alt="mysql" style="vertical-align:top; margin:4px">
-   <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/languages/html.svg" alt="html" style="vertical-align:top; margin:4px">
-   <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/languages/css.svg" alt="css" style="vertical-align:top; margin:4px">
-   <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/languages/js.svg" alt="js" style="vertical-align:top; margin:4px">
-   <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/frameworks/react.svg" alt="react" style="vertical-align:top; margin:4px">
-   <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/tools/git.svg" alt="git" style="vertical-align:top; margin:4px">
-   <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/tools/github.svg" alt="github" style="vertical-align:top; margin:4px">
-   <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/tools/visualstudio_code.svg" alt="vscode" style="vertical-align:top; margin:4px">
+   <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/img/logos/java-original.svg" alt="java" style="vertical-align:top; margin:4px">
+   <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/img/logos/spring-original.svg" alt="springboot" style="vertical-align:top; margin:4px">
+   <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/img/logos/mysql-original.svg" alt="mysql" style="vertical-align:top; margin:4px">
+   <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/img/logos/html5-original.svg" alt="html" style="vertical-align:top; margin:4px">
+   <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/img/logos/css3-original.svg" alt="css" style="vertical-align:top; margin:4px">
+   <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/img/logos/javascript-original.svg" alt="js" style="vertical-align:top; margin:4px">
+   <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/img/logos/react-original.svg" alt="react" style="vertical-align:top; margin:4px">
+   <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/img/logos/git-original.svg" alt="git" style="vertical-align:top; margin:4px">
+   <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/img/logos/github-original.svg" alt="github" style="vertical-align:top; margin:4px">
+   <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/img/logos/vscode-original.svg" alt="vscode" style="vertical-align:top; margin:4px">
 </p>
 
 ### - What I Do
