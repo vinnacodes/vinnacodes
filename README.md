@@ -1,7 +1,7 @@
 <div align="center">
    <h1>Hi there, I'm <a href="https://vinnarasu.github.io">Vinnarasu </a> 
    
-   <img src="<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Laptop.webp" alt="Laptop" width="25" height="25" />"> 
+   <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Laptop.webp" alt="Laptop" width="25" height="25" />
 </div>
 
 
