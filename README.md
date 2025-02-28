@@ -1,7 +1,7 @@
 <div align="center">
-   <h1>Hi there, I'm <a href="https://vinnarasu.github.io">Vinnarasu<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Identification%20Card.webp" alt="Identification Card" width="50" height="50" /> </a> 
+   <h1>Hi there, I'm <a href="https://vinnarasu.github.io">Vinnarasu<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Identification%20Card.webp" alt="Identification Card" width="40" height="40" /> </a> 
    
-   <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Laptop.webp" alt="Laptop" width="25" height="25" />
+   <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Laptop.webp" alt="Laptop" width="60" height="50" />
 </div>
 
 
