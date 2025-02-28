@@ -4,11 +4,11 @@
    <img src="https://pronoun.cyou/x/y?subject=He&object=Him&height=20"> 
 </div>
 
-<p align='center'>
-   <a href="https://www.linkedin.com/in/vinnarasu-p-2a4018179/"><img height="30" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/linkedin.png?raw=true"></a>  
-   <a href="https://twitter.com/vinnacodes"><img height="30" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/twitter.png?raw=true"></a>  
-   <a href="mailto:vinnarasu2000@gmail.com"><img height="30" src="https://skillicons.dev/icons?i=slack" /></a>  
-   <a href="https://github.com/vinnarasu"><img height="30" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/github.png?raw=true"></a>  
+<p align="center">
+   [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/vinnarasu-p-2a4018179/)
+   [![Twitter](https://skillicons.dev/icons?i=twitter)](https://twitter.com/vinnacodes)
+   [![Slack](https://skillicons.dev/icons?i=slack)](mailto:vinnarasu2000@gmail.com)
+   [![GitHub](https://skillicons.dev/icons?i=github)](https://github.com/vinnarasu)
 </p>
 
 <div align="center">
@@ -22,7 +22,7 @@
 </p>
 
 <h5 align="center">
-   <i>⚡️"You do not rise to the level of your goals. You fall to the level of your systems." ⚡️</i>
+   <i>⚡️"You do not rise to the level of your goals. You fall to the level of your systems." - James Clear⚡️</i>
 </h5>
 
 <br />
@@ -60,7 +60,7 @@
 ### - Frameworks & Tools
 
 <p align="center">
-   <img src="https://skillicons.dev/icons?i=spring,react,hibernate,postgres,bootstrap,docker,jenkins,postman,git,github,vscode,maven" />
+   <img src="https://skillicons.dev/icons?i=spring,react,hibernate,nodejs,postgres,bootstrap,tailwind,docker,jenkins,postman,git,github,vscode,maven" />
 </p>
 
 ### - What I Do
@@ -84,7 +84,7 @@
 
 <p align="center">💙 If you like my projects, give them ⭐ and share them with friends!</p>
 
-
+<p align="center">Made with ❤️ in India</p>
 
 <h1 align='center'>⚡️<i>Stay awesome!</i>⚡️</h1>
 
