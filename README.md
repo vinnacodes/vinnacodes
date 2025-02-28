@@ -91,7 +91,7 @@
 <p align="center">🎀 Contributions (<a href="https://guides.github.com/introduction/flow" title="GitHub flow">GitHub Flow</a>), 🔥 issues, and 🥮 feature requests are most welcome!</p>
 
 
-<img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" alt="Github Stats" />
+<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Flottiefiles.com%2Ffree-animations%2Ftech-stack&psig=AOvVaw3e8Ssv6kqDbngrGM6KTcBI&ust=1740830897340000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCMjqsNCq5osDFQAAAAAdAAAAABAE" />
 
 
 <h1 align='center'>⚡️<i>Stay awesome!</i>⚡️</h1>
