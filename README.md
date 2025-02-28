@@ -1,28 +1,27 @@
 <div align="center">
-   <h1>Hi there, I'm <a href="https://vinnarasu.github.io">Vinnarasu </a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> </h1>
+   <h1>Hi there, I'm <a href="https://vinnarasu.github.io">Vinnarasu P</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> </h1>
    
    <img src="https://pronoun.cyou/x/y?subject=He&object=Him&height=20"> 
 </div>
 
-<p align="center">
+<p align='center'>
    <a href="https://www.linkedin.com/in/vinnarasu-p-85518a195/"><img height="30" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/linkedin.png?raw=true"></a>  
-   <a href="https://twitter.com/vinnarasu_p"><img height="30" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/twitter.png?raw=true"></a>  
+   <a href="https://twitter.com/vinnacodes"><img height="30" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/twitter.png?raw=true"></a>  
    <a href="https://github.com/vinnarasu"><img height="30" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/github.png?raw=true"></a>  
 </p>
+
 <div align="center">
-   <h3><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 🙎 Vinnarasu  | 💻 Full Stack Developer | 🛸 India <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></h3>
+   <h3><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 🙎 Vinnarasu P | 💻 Full Stack Developer | 🛸 India <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></h3>
 </div>
 
 <p align="center">
-  <a href="https://twitter.com/vinnacodes">
-  <img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/vinnacodes?style=for-the-badge&color=09f&labelColor=black&logo=twitter&label=@vinnacodes">
-</a>
+   <a href="https://twitter.com/vinnacodes"><img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/vinnacodes?style=for-the-badge&color=09f&labelColor=black&logo=twitter&label=@vinnacodes"></a>
    <br>
    <a href="https://visitor-badge.glitch.me/badge?page_id=vinnarasu.vinnarasu"> <img alt="vinnarasu github" src="https://visitor-badge.glitch.me/badge?page_id=vinnarasu.vinnarasu"> </a>
 </p>
 
 <h5 align="center">
- <i>⚡️  You do not rise to the level of your goals. You fall to the level of your systems.⚡️</i>
+   <i>⚡️"You do not rise to the level of your goals. You fall to the level of your systems." ⚡️</i>
 </h5>
 
 <br />
@@ -37,7 +36,7 @@
 - 🛸 Enthusiastic about clean code and user-friendly interfaces  
 - I do fullstack and a bit of everything :heart:  
 - All About living life at its best.  
-- 💬 Connect? Let's get social 👉🏼[<img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/social/twitter.svg" >](https://twitter.com/vinnarasu_p)  
+- 💬 Connect? Let's get social 👉🏼[<img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/social/twitter.svg" >](https://twitter.com/vinnacodes)  
 
 <p align="center">
    <h4> Full Stack | Problem Solver </h4>
@@ -54,16 +53,7 @@
 ### - Languages and Tools...
 
 <p align="center">
-   <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/img/logos/java-original.svg" alt="java" style="vertical-align:top; margin:4px">
-   <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/img/logos/spring-original.svg" alt="springboot" style="vertical-align:top; margin:4px">
-   <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/img/logos/mysql-original.svg" alt="mysql" style="vertical-align:top; margin:4px">
-   <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/img/logos/html5-original.svg" alt="html" style="vertical-align:top; margin:4px">
-   <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/img/logos/css3-original.svg" alt="css" style="vertical-align:top; margin:4px">
-   <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/img/logos/javascript-original.svg" alt="js" style="vertical-align:top; margin:4px">
-   <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/img/logos/react-original.svg" alt="react" style="vertical-align:top; margin:4px">
-   <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/img/logos/git-original.svg" alt="git" style="vertical-align:top; margin:4px">
-   <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/img/logos/github-original.svg" alt="github" style="vertical-align:top; margin:4px">
-   <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/img/logos/vscode-original.svg" alt="vscode" style="vertical-align:top; margin:4px">
+   <img src="https://skillicons.dev/icons?i=java,spring,mysql,html,css,js,react,git,github,vscode" />
 </p>
 
 ### - What I Do
@@ -76,7 +66,7 @@
 <br />
 
 <p align="center">
-   <img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" />
+   <img src="https://media.giphy.com/media/f9XgHHnPnDjOF1hWpl/giphy.gif" />
 </p>
 
 <br />
@@ -85,7 +75,9 @@
 
 <p align="center">🎀 Contributions (<a href="https://guides.github.com/introduction/flow" title="GitHub flow">GitHub Flow</a>), 🔥 issues, and 🥮 feature requests are most welcome!</p>
 
+<p align="center">💙 If you like my projects, give them ⭐ and share them with friends!</p>
 
+<p align="center">Made with ❤️ in India</p>
 
 <h1 align='center'>⚡️<i>Stay awesome!</i>⚡️</h1>
 
