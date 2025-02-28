@@ -83,13 +83,15 @@
    <img src="[https://github.com/user-attachments/assets/0585a2b3-7df6-430c-9dce-b269b47ec156](https://github.com/vinnacodes/vinnacodes/blob/main/Animation%20-%201740741873214.gif)
 " />
 </p>
-<img src="<img src="https://skillicons.dev/icons?i=maven" height="40" alt="Maven" style="margin:4px">">
+
 <br />
 
 <h2 align="center">🤝 Support</h2>
 
 <p align="center">🎀 Contributions (<a href="https://guides.github.com/introduction/flow" title="GitHub flow">GitHub Flow</a>), 🔥 issues, and 🥮 feature requests are most welcome!</p>
 
+
+<img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" alt="Github Stats" />
 
 
 <h1 align='center'>⚡️<i>Stay awesome!</i>⚡️</h1>
