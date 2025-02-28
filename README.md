@@ -65,6 +65,8 @@
    <img src="https://skillicons.dev/icons?i=maven" height="40" alt="Maven" style="margin:4px">
 </p>
 
+
+
 ### - What I Do
 
 - **Employee Payroll Management**: Built a RESTful API with Java, Spring Boot, and JPA, featuring CRUD operations, Spring Security, and optimized SQL queries. [View Project](https://github.com/vinnarasu/employee-payroll-management)  
@@ -81,7 +83,7 @@
    <img src="[https://github.com/user-attachments/assets/0585a2b3-7df6-430c-9dce-b269b47ec156](https://github.com/vinnacodes/vinnacodes/blob/main/Animation%20-%201740741873214.gif)
 " />
 </p>
-
+<img src="<img src="https://skillicons.dev/icons?i=maven" height="40" alt="Maven" style="margin:4px">">
 <br />
 
 <h2 align="center">🤝 Support</h2>
