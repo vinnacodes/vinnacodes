@@ -83,13 +83,14 @@
    <img src="[https://github.com/user-attachments/assets/0585a2b3-7df6-430c-9dce-b269b47ec156](https://github.com/vinnacodes/vinnacodes/blob/main/Animation%20-%201740741873214.gif)
 " />
 </p>
-![Animation](https://github.com/vinnacodes/vinnacodes/raw/main/Animation%20-%201740741873214.gif)
+
 <br />
 
 <h2 align="center">🤝 Support</h2>
 
 <p align="center">🎀 Contributions (<a href="https://guides.github.com/introduction/flow" title="GitHub flow">GitHub Flow</a>), 🔥 issues, and 🥮 feature requests are most welcome!</p>
-<img  align="center" src="https://github.com/vinnacodes/vinnacodes/raw/main/Animation%20-%201740741873214.gif" alt="Animation">
+
+
 
 
 
