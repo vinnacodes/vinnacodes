@@ -14,8 +14,7 @@
 <p align="center">
    <a href="https://twitter.com/vinnacodes"><img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/vinnacodes?style=for-the-badge&color=09f&labelColor=black&logo=twitter&label=@vinnacodes"></a>
    <br>
-   <a href="https://visitor-badge.glitch.me/badge?page_id=vinnarasu.vinnarasu"> <img alt="vinnarasu github" src="https://visitor-badge.glitch.me/badge?page_id=vinnarasu.vinnarasu"> </a>
-</p>
+<img src="![Visits](https://img.shields.io/badge/Visits-24182-blue)">
 
 <h5 align="center">
    <i>⚡️" U do not rise to the level of your goals. You fall to the level of your systems." -vinnas⚡️</i>
