@@ -4,12 +4,6 @@
    <img src="https://pronoun.cyou/x/y?subject=He&object=Him&height=20"> 
 </div>
 
-<p align="center">
-   [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/vinnarasu-p-2a4018179/)
-   [![Twitter](https://skillicons.dev/icons?i=twitter)](https://twitter.com/vinnacodes)
-   [![Slack](https://skillicons.dev/icons?i=slack)](mailto:vinnarasu2000@gmail.com)
-   [![GitHub](https://skillicons.dev/icons?i=github)](https://github.com/vinnarasu)
-</p>
 
 <div align="center">
    <h3><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 🙎 Vinnarasu P | 💻 Full Stack Developer | 🛸 India <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></h3>
