@@ -5,7 +5,7 @@
 
 
 <div align="center">
-   <h3><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">     
+   <h3><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="60" height="50">     
 </div>
       
       
@@ -17,7 +17,7 @@
 <img src="![Visits](https://img.shields.io/badge/Visits-24182-blue)">
 
 <h5 align="center">
-   <i>⚡️" U do not rise to the level of your goals. You fall to the level of your systems." -vinnas⚡️</i>
+   <i>⚡️" U do not rise to the level of your goals. You fall to the level of your systems." -vinna⚡️</i>
 </h5>
 
 <br />
