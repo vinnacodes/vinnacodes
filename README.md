@@ -4,8 +4,7 @@
       
 </div>
 
-<p align="center">
-   <a href="https://twitter.com/vinnacodes"><img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/vinnacodes?style=for-the-badge&color=09f&labelColor=black&logo=twitter&label=@vinnacodes"></a>
+
    <br>
 <img src="![Visits](https://img.shields.io/badge/Visits-24182-blue)">
 
