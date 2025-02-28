@@ -53,8 +53,23 @@
 
 ### - Frameworks & Tools
 
+### - Frameworks & Tools
+
 <p align="center">
-   <img src="https://skillicons.dev/icons?i=spring,react,hibernate,nodejs,postgres,bootstrap,tailwind,docker,jenkins,postman,git,github,vscode,maven" />
+   <img src="https://skillicons.dev/icons?i=spring" height="40" alt="Spring Boot" style="margin:4px">
+   <img src="https://skillicons.dev/icons?i=react" height="40" alt="React" style="margin:4px">
+   <img src="https://skillicons.dev/icons?i=hibernate" height="40" alt="Hibernate" style="margin:4px">
+   <img src="https://skillicons.dev/icons?i=nodejs" height="40" alt="Node.js" style="margin:4px">
+   <img src="https://skillicons.dev/icons?i=postgres" height="40" alt="PostgreSQL" style="margin:4px">
+   <img src="https://skillicons.dev/icons?i=bootstrap" height="40" alt="Bootstrap" style="margin:4px">
+   <img src="https://skillicons.dev/icons?i=tailwind" height="40" alt="Tailwind CSS" style="margin:4px">
+   <img src="https://skillicons.dev/icons?i=docker" height="40" alt="Docker" style="margin:4px">
+   <img src="https://skillicons.dev/icons?i=jenkins" height="40" alt="Jenkins" style="margin:4px">
+   <img src="https://skillicons.dev/icons?i=postman" height="40" alt="Postman" style="margin:4px">
+   <img src="https://skillicons.dev/icons?i=git" height="40" alt="Git" style="margin:4px">
+   <img src="https://skillicons.dev/icons?i=github" height="40" alt="GitHub" style="margin:4px">
+   <img src="https://skillicons.dev/icons?i=vscode" height="40" alt="VS Code" style="margin:4px">
+   <img src="https://skillicons.dev/icons?i=maven" height="40" alt="Maven" style="margin:4px">
 </p>
 
 ### - What I Do
