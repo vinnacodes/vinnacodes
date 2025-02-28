@@ -1,91 +1,95 @@
-Hi there! 👋 I'm Vinnarasu P
+<div align="center">
+   <h1>Hi there, I'm <a href="https://vinnarasu.github.io">Vinnarasu P</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> </h1>
+   
+   <img src="https://pronoun.cyou/x/y?subject=He&object=Him&height=20"> 
+</div>
 
-🚀 Java Full Stack Developer | Problem Solver | Tech Enthusiast
+<p align='center'>
+   <a href="https://www.linkedin.com/in/vinnarasu-p-85518a195/"><img height="30" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/linkedin.png?raw=true"></a>  
+   <a href="https://twitter.com/vinnarasu_p"><img height="30" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/twitter.png?raw=true"></a>  
+   <a href="https://github.com/vinnarasu"><img height="30" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/github.png?raw=true"></a>  
+</p>
 
-I am a passionate Full Stack Developer with hands-on experience in building web applications using Java, Spring Boot, MySQL, HTML, CSS, JavaScript, and React.js. I enjoy creating dynamic and responsive web applications with clean code and user-friendly interfaces.
+<div align="center">
+   <h3><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 🙎 Vinnarasu P | 💻 Full Stack Developer | 🛸 India <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></h3>
+</div>
 
-🔧 Technologies & Tools
+<p align="center">
+  <a href="https://twitter.com/vinnacodes">
+  <img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/vinnacodes?style=for-the-badge&color=09f&labelColor=black&logo=twitter&label=@vinnacodes">
+</a>
+   <br>
+   <a href="https://visitor-badge.glitch.me/badge?page_id=vinnarasu.vinnarasu"> <img alt="vinnarasu github" src="https://visitor-badge.glitch.me/badge?page_id=vinnarasu.vinnarasu"> </a>
+</p>
 
-Backend
+<h5 align="center">
+ <i>⚡️  do not rise to the level of your goals. You fall to the level of your systems.⚡️</i>
+</h5>
 
+<br />
+<img align="right" height="270px" width="450px" alt="GIF" src="https://media.giphy.com/media/3FjEPbKqEPhPpmC8uY/giphy.gif" />
+<p align="center">
+   <h3> I'm a Full-Stack Developer from India.</h3>
+</p>
 
+- 🥀 Learning new technologies and frameworks  
+- <i>with Java, Spring Boot, MySQL, HTML, CSS, JavaScript, and React.js.</i>  
+- 🔭 Passionate about building dynamic and responsive web applications  
+- 🛸 Enthusiastic about clean code and user-friendly interfaces  
+- I do fullstack and a bit of everything :heart:  
+- All About living life at its best.  
+- 💬 Connect? Let's get social 👉🏼[<img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/social/twitter.svg" >](https://twitter.com/vinnarasu_p)  
 
+<p align="center">
+   <h4> Full Stack | Problem Solver </h4>
+</p>
 
+<p align="center" >
+   <a href="https://github.com/anuraghazra/github-readme-stats"> 
+      <img src="https://github-readme-stats.vercel.app/api?username=vinnarasu&&show_icons=true&theme=radical"/>
+   </a>
+</p>
 
+<br />
 
-Frontend
+### - Languages and Tools...
 
+<p align="center">
+   <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/languages/java.svg" alt="java" style="vertical-align:top; margin:4px">
+   <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/languages/springboot.svg" alt="springboot" style="vertical-align:top; margin:4px">
+   <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/languages/mysql.svg" alt="mysql" style="vertical-align:top; margin:4px">
+   <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/languages/html.svg" alt="html" style="vertical-align:top; margin:4px">
+   <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/languages/css.svg" alt="css" style="vertical-align:top; margin:4px">
+   <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/languages/js.svg" alt="js" style="vertical-align:top; margin:4px">
+   <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/frameworks/react.svg" alt="react" style="vertical-align:top; margin:4px">
+   <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/tools/git.svg" alt="git" style="vertical-align:top; margin:4px">
+   <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/tools/github.svg" alt="github" style="vertical-align:top; margin:4px">
+   <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/tools/visualstudio_code.svg" alt="vscode" style="vertical-align:top; margin:4px">
+</p>
 
+### - What I Do
 
+- **Employee Payroll Management**: Built a RESTful API with Java, Spring Boot, and JPA, featuring CRUD operations, Spring Security, and optimized SQL queries. [View Project](https://github.com/vinnarasu/employee-payroll-management)  
+- **Book Store App**: Developed a secure app with Spring Boot, JPA, MySQL, and Thymeleaf for managing books and user authentication. [View Project](https://github.com/vinnarasu/book-store-app)  
+- **Personal Portfolio Website**: Created a responsive site using HTML, CSS, and JavaScript to showcase my skills and projects. [Visit Portfolio](https://vinnarasu.github.io)  
+- **Weather Forecast App**: Built a real-time weather app with HTML, CSS, and JavaScript, integrated with an external API. [View Project](https://github.com/vinnarasu/weather-forecast-app)  
 
+<br />
 
+<p align="center">
+   <img src="https://media.giphy.com/media/f9XgHHnPnDjOF1hWpl/giphy.gif" />
+</p>
 
-Tools & Platforms
+<br />
 
+<h2 align="center">🤝 Support</h2>
 
-
-
-
-📌 Projects
-
-🔥 Employee Payroll Management
-
-Built a RESTful API using Java, Spring Boot, and JPA
-
-Implemented CRUD operations for employee records
-
-Secured APIs with Spring Security
-
-Optimized performance with efficient SQL Queries
-
-👉 View Project
-
-📚 Book Store App
-
-Manage books, authors, and customer collections
-
-Secure user authentication with Role-Based Access Control
-
-Built using Spring Boot, JPA, MySQL & Thymeleaf
-
-👉 View Project
-
-🌐 Personal Portfolio Website
-
-Responsive website showcasing my skills and projects
-
-Built with HTML, CSS, and JavaScript
-
-👉 Visit Portfolio
-
-☁️ Weather Forecast App
-
-Real-time weather data using External Weather API
-
-Built with HTML, CSS, and JavaScript
-
-👉 View Project
-
-🏆 Achievements
-
-Winner of Smart India Hackathon 2019 🏅 in the MSME Innovation Category for developing a self-charging ceiling fan.
-
-📜 Certifications
-
-Java Full Stack Development Internship at Besant Technologies (Jan 2024 - Dec 2024)
-
-🎯 Let's Connect!
-
-
-
-
+<p align="center">🎀 Contributions (<a href="https://guides.github.com/introduction/flow" title="GitHub flow">GitHub Flow</a>), 🔥 issues, and 🥮 feature requests are most welcome!</p>
 
 
-📧 Contact Me
 
-Email: vinnarasu2000@gmail.com
+<h1 align='center'>⚡️<i>Stay awesome!</i>⚡️</h1>
 
-Phone: +91 9360881096
-
-Let's build something amazing together! 💪✨
-
+<p align="center">
+   <img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" alt="Github Stats" />
+</p>
