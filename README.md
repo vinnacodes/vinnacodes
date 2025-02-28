@@ -18,10 +18,11 @@
    <h3> I'm a Full-Stack Developer from India.</h3>
 </p>
 
-- 🥀 Learning new technologies and frameworks  
+- 🥀 Learning new technologies and frameworks
+
+  curious About the Science and Tech and(Space  <img src="[![Visits]https://github.com/vinnacodes/vinnacodes/blob/main/Animation%20-%201740764689470.gif">)
 - <i>with Java, Spring Boot, MySQL, HTML, CSS, JavaScript, and React.js.</i>  
-- 🔭 Passionate about building dynamic and responsive web applications  
-- 🛸 Enthusiastic about clean code and user-friendly interfaces  
+
 - I do fullstack and a bit of everything :heart:  
 - All About living life at its best.  
 - 💬 Connect? Let's get social 👉🏼[<img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/social/twitter.svg" >](https://twitter.com/vinnacodes)  
