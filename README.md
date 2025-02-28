@@ -89,9 +89,9 @@
 <h2 align="center">🤝 Support</h2>
 
 <p align="center">🎀 Contributions (<a href="https://guides.github.com/introduction/flow" title="GitHub flow">GitHub Flow</a>), 🔥 issues, and 🥮 feature requests are most welcome!</p>
-<img src="https://github.com/vinnacodes/vinnacodes/raw/main/Animation%20-%201740741873214.gif" alt="Animation">
+<img  align="center" src="https://github.com/vinnacodes/vinnacodes/raw/main/Animation%20-%201740741873214.gif" alt="Animation">
 
-<img src="[Animation Link](https://lottiefiles.com/free-animation/programing-languages-web-development-front-end-modified-HqaNGA2gAK)" />
+
 
 
 <h1 align='center'>⚡️<i>Stay awesome!</i>⚡️</h1>
