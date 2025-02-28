@@ -1,13 +1,6 @@
 <div align="center">
    <h1>Hi there, I'm <a href="https://vinnarasu.github.io">Vinnarasu<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/People/Waving%20Hand.webp" alt="Waving Hand" width="45" height="45" /> </a> 
-   
-
-
-
-<div align="center">
-   <h3><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="60" height="50">     
-</div>
-      
+        
       
 </div>
 
