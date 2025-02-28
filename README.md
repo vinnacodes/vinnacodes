@@ -1,7 +1,7 @@
 <div align="center">
-   <h1>Hi there, I'm <a href="https://vinnarasu.github.io">Vinnarasu </a> <img src="https://user-images.githubusercontent.com/74038190/215768924-1014d363-b416-4080-8c74-808583e81735.png" width="25px"> </h1>
+   <h1>Hi there, I'm <a href="https://vinnarasu.github.io">Vinnarasu </a> 
    
-   <img src="https://pronoun.cyou/x/y?subject=He&object=Him&height=20"> 
+   <img src="<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Laptop.webp" alt="Laptop" width="25" height="25" />"> 
 </div>
 
 
