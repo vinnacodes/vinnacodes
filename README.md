@@ -91,7 +91,7 @@
 <p align="center">🎀 Contributions (<a href="https://guides.github.com/introduction/flow" title="GitHub flow">GitHub Flow</a>), 🔥 issues, and 🥮 feature requests are most welcome!</p>
 
 
-<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Flottiefiles.com%2Ffree-animations%2Ftech-stack&psig=AOvVaw3e8Ssv6kqDbngrGM6KTcBI&ust=1740830897340000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCMjqsNCq5osDFQAAAAAdAAAAABAE" />
+<img src="[Animation Link](https://lottiefiles.com/free-animation/programing-languages-web-development-front-end-modified-HqaNGA2gAK)" />
 
 
 <h1 align='center'>⚡️<i>Stay awesome!</i>⚡️</h1>
