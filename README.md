@@ -84,7 +84,7 @@
 <br />
 
 <p align="center">
-   <img src="![image](https://github.com/user-attachments/assets/e85c917c-a6ab-4986-a222-eed944ea79fb)
+   <img src="https://github.com/user-attachments/assets/e85c917c-a6ab-4986-a222-eed944ea79fb
 " />
 </p>
 
