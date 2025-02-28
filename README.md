@@ -54,7 +54,9 @@
 
 
 ### - Frameworks & Tools
-
+  <p align="center">
+   <img src= <img src="https://skillicons.dev/icons?i=java,mysql,html,css,js" />
+</p>
 <p align="center">
    <img src="https://skillicons.dev/icons?i=spring" height="40" alt="Spring Boot" style="margin:4px">
    <img src="https://skillicons.dev/icons?i=react" height="40" alt="React" style="margin:4px">
