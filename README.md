@@ -55,9 +55,7 @@
 
 
 ### - Frameworks & Tools
-  <p align="center">
-   <img src= <img src="https://skillicons.dev/icons?i=java,mysql,html,css,js" />
-</p>
+
 <p align="center">
    <img src="https://skillicons.dev/icons?i=spring" height="40" alt="Spring Boot" style="margin:4px">
    <img src="https://skillicons.dev/icons?i=react" height="40" alt="React" style="margin:4px">
@@ -85,8 +83,7 @@
 <br />
 
 <p align="center">
-   <img src="https://user-images.githubusercontent.com/74038190/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif
-" />
+   <img src="https://user-images.githubusercontent.com/74038190/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif" />
 </p>
 
 <br />
