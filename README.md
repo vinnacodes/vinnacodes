@@ -84,7 +84,8 @@
 <br />
 
 <p align="center">
-   <img src="https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif" />
+   <img src="![image](https://github.com/user-attachments/assets/e85c917c-a6ab-4986-a222-eed944ea79fb)
+" />
 </p>
 
 <br />
@@ -93,9 +94,7 @@
 
 <p align="center">🎀 Contributions (<a href="https://guides.github.com/introduction/flow" title="GitHub flow">GitHub Flow</a>), 🔥 issues, and 🥮 feature requests are most welcome!</p>
 
-<p align="center">💙 If you like my projects, give them ⭐ and share them with friends!</p>
 
-<p align="center">Made with ❤️ in India</p>
 
 <h1 align='center'>⚡️<i>Stay awesome!</i>⚡️</h1>
 
