@@ -5,8 +5,9 @@
 </div>
 
 <p align='center'>
-   <a href="https://www.linkedin.com/in/vinnarasu-p-85518a195/"><img height="30" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/linkedin.png?raw=true"></a>  
+   <a href="https://www.linkedin.com/in/vinnarasu-p-2a4018179/"><img height="30" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/linkedin.png?raw=true"></a>  
    <a href="https://twitter.com/vinnacodes"><img height="30" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/twitter.png?raw=true"></a>  
+   <a href="mailto:vinnarasu2000@gmail.com"><img height="30" src="https://skillicons.dev/icons?i=slack" /></a>  
    <a href="https://github.com/vinnarasu"><img height="30" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/github.png?raw=true"></a>  
 </p>
 
@@ -21,7 +22,7 @@
 </p>
 
 <h5 align="center">
-   <i>⚡️"You do not rise to the level of your goals. You fall to the level of your systems." ⚡️</i>
+   <i>⚡️"You do not rise to the level of your goals. You fall to the level of your systems." - James Clear⚡️</i>
 </h5>
 
 <br />
@@ -50,10 +51,16 @@
 
 <br />
 
-### - Languages and Tools...
+### - Languages
 
 <p align="center">
-   <img src="https://skillicons.dev/icons?i=java,spring,mysql,html,css,js,react,git,github,vscode" />
+   <img src="https://skillicons.dev/icons?i=java,mysql,html,css,js" />
+</p>
+
+### - Frameworks & Tools
+
+<p align="center">
+   <img src="https://skillicons.dev/icons?i=spring,react,hibernate,nodejs,postgres,bootstrap,tailwind,docker,jenkins,postman,git,github,vscode,maven" />
 </p>
 
 ### - What I Do
