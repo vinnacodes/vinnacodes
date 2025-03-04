@@ -21,7 +21,7 @@
 
 - curious About the Science and Tech and(Space  <img src="[![Visits]https://github.com/vinnacodes/vinnacodes/blob/main/Animation%20-%201740764689470.gif">)
 - <i>with Java, Spring Boot, MySQL, HTML, CSS, JavaScript, and React.js.</i>  
-
+- I know something about Electronics too and a bit of biology.
 - I do fullstack and a bit of everything :heart:  
 - All About living life at its best.  
 - 💬 Connect? Let's get social 👉🏼[<img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/social/twitter.svg" >](https://twitter.com/vinnacodes)  
