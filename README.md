@@ -9,7 +9,6 @@
 <img src="![Visits](https://img.shields.io/badge/Visits-24182-blue)">
 
 <h5 align="center">
-  <h3> <i>⚡️"The best error message is the one that never shows up."⚡️ </i></h3> <span>  -vinna </span>
 </h5>
 
 <br />
