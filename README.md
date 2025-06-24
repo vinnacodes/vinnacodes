@@ -19,6 +19,8 @@
 
 - 🥀 Learning new technologies and frameworks
 
+- I love Teaching 
+
 - curious About the Science and Tech and(Space  <img src="[![Visits]https://github.com/vinnacodes/vinnacodes/blob/main/Animation%20-%201740764689470.gif">)
 - <i>with Java, Spring Boot, MySQL, HTML, CSS, JavaScript, and React.js.</i>  
 - I know something about Electronics too and a bit of biology.
